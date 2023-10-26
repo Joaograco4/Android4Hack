@@ -1,0 +1,1 @@
+x=msgbox("Você terá que reiniciar o dispositivo!", 0+48, "Aviso")
