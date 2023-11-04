@@ -11,7 +11,7 @@ echo Options:
 echo.
 echo (1) Formart                      (4) Reboot for Bootloader
 echo (2) Reboot for system            (5) Open Terminal
-echo (3) Reboot for fastboot          (6) Sair
+echo (3) Reboot for fastboot          (6) Exit
 echo.
 echo Digite sua escolha:
  set /p "sclh=>"
