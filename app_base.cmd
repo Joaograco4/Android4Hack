@@ -1,5 +1,6 @@
 echo off
 color 70
+title Android4Hack
 cd multi-tools
 :loop
 cls
