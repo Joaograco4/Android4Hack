@@ -4,8 +4,8 @@
 
 # Requirements
  Windows:
-  Git - to install
-  Java - to run the scrcpy and gnirehtet
+ Git - to install
+ Java - to run the scrcpy and gnirehtet
 
  # Credits
  
