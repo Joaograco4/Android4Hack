@@ -1,6 +1,5 @@
  # Android4Hack
-  Link to download setup:
-  https://www.mediafire.com/file/hnwxkj5wa58gy5q/Setup.cmd/file
+ This repository was created to help perform some actions on Android devices
 
 # Funções
   View phone/tablet screen (Requires Android 5.0 or better) - scrcpy
