@@ -1,25 +1,19 @@
  # Android4Hack
- This repository was created to help perform some actions on Android devices
-
-# Funções
-  View phone/tablet screen (Requires Android 5.0 or better) - scrcpy
-  
-  Share internet from PC to cell phone/tablet - gnirehtet
-  
-  Format and restart your phone/tablet - Android Multi-Tools
+ This repository was created to help perform some actions on Android devices<br>
+# Functions
+  View phone/tablet screen (Requires Android 5.0 or better) - scrcpy<br>
+  Share internet from PC to cell phone/tablet - gnirehtet<br>
+  Format and restart your phone/tablet - Android Multi-Tools<br>
 # Requirements
- Windows:<
- Git - to install the Android4Hack<br>
- Java - to run the scrcpy and gnirehtet
- 
- Android:
- 
- Enable the USB Debugging
+ Windows:<br>
+ Git - to install<br>
+ Java - to run the scrcpy and gnirehtet<br>
+ Android:<br>
+ Enable the USB Debugging<br>
 
  # Credits
- 
- Genymobile - scrcpy 
- https://github.com/Genymobile/scrcpy
+ Genymobile - scrcpy <br>
+ https://github.com/Genymobile/scrcpy <br>
 
  Genymobile - gnirehtet
- https://github.com/Genymobile/gnirehtet
+ https://github.com/Genymobile/gnirehtet <br>
