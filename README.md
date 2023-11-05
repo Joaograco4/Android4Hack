@@ -3,13 +3,15 @@
 
 # Funções
   View phone/tablet screen (Requires Android 5.0 or better) - scrcpy
+  
   Share internet from PC to cell phone/tablet - gnirehtet
+  
   Format and restart your phone/tablet - Android Multi-Tools
 # Requirements
  Windows:
  Git - to install
  Java - to run the scrcpy and gnirehtet
-Android:
+ Android:
  Enable the USB Debugging
 
  # Credits
