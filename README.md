@@ -12,7 +12,7 @@
  Windows:
  Git - to install
  Java - to run the scrcpy and gnirehtet
-Android:
+ Android:
  Enable the USB Debugging
 
  # Credits
