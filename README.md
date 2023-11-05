@@ -8,10 +8,12 @@
   
   Format and restart your phone/tablet - Android Multi-Tools
 # Requirements
- Windows:
- Git - to install
+ Windows:<
+ Git - to install the Android4Hack<br>
  Java - to run the scrcpy and gnirehtet
+ 
  Android:
+ 
  Enable the USB Debugging
 
  # Credits
