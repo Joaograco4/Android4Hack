@@ -14,6 +14,5 @@
  # Credits
  Genymobile - scrcpy <br>
  https://github.com/Genymobile/scrcpy <br>
-
- Genymobile - gnirehtet
+ Genymobile - gnirehtet<br>
  https://github.com/Genymobile/gnirehtet <br>
