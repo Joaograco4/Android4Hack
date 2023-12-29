@@ -20,7 +20,7 @@ echo =======================================================================
 if %sclh% equ 1 (start fastboot.exe
 fastboot erase data
 fastboot erase cache
-start msg.vbs
+fastboot reboot
 cls
 pause
 goto pontozero)
